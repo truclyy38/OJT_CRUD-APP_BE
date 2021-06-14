@@ -1,0 +1,13 @@
+s:
+  phoneMessage: "The phone number is existed, please check again!"
+  notFound: "We can not see the data for this case, please reload page to check again!"
+  updateSuccess: "Update Successful!"
+  deleteSuccess: "Delete Successful!"
+  addSuccess: "Add Successful!"
+  success: "Successful!"
+  apiRequest: "Can not get all the student because the custom exception!"
+  nameMessage: "This name is existed, please choose another!"
+  registerErrorMessage: "This student has already enrolled this class!"
+  registerClassMessage: "This class is in active status"
+  userCanNotDelete: "Can not delete because this user joined an active class "
+  emailTail: "@gmail.com"
